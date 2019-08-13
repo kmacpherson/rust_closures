@@ -1,5 +1,5 @@
 [package]
-name = "Closures"
+name = "rust_clouures"
 version = "0.1.0"
 authors = ["Kevin MacPherson <kevin@teamroke.ca>"]
 edition = "2018"
